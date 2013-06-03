@@ -1,2 +1,2 @@
 set nu
-"It's enough!
+"It seems enough!
