@@ -44,5 +44,6 @@ filetype plugin indent on    " required
 "vundle end
 
 set nu
+set mouse=a
 "It seems enough!
 
